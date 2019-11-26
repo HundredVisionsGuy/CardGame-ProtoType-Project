@@ -14,8 +14,7 @@ public  class CardCollection {
 
   // TODO #3: Add a clear() method
   public ______ clear( ) {
-    // clear the cards (see method #18 from https://www.g
-    eeksforgeeks.org/arraylist-in-java/)
+    // clear the cards (see method #18 from https://www.geeksforgeeks.org/arraylist-in-java/)
   }
 
   // TODO #4: Add an add() method
